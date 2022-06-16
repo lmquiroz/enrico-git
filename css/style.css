@@ -1,0 +1,43 @@
+.imgbanner {
+    height: 90px;
+    background-color: black;
+}
+.imgbanner img {
+    max-height: 90px;
+    display: block; 
+    position: relative;
+    margin: 0 auto;
+}
+
+/* main{
+    background-color: black;
+} */
+
+main div{
+    background-color: black;
+    
+}
+
+main div img{
+    max-height: 400px;
+   background-color: black;
+
+}
+
+.contenedorTexto{
+    background-color: #262626;
+    color: white;
+    width: 50%;
+    padding: 3%;
+}
+.colores {
+    color: #222622;
+    color: #262626;
+    color: #363636;
+    color: #67736E;
+    color: #677367;
+}
+
+body{
+    background-color: #222622;
+}
