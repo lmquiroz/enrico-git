@@ -9,11 +9,7 @@
     margin: 0 auto;
 }
 
-/* main{
-    background-color: black;
-} */
-
-main div{
+main div, footer{
     background-color: black;
     
 }
@@ -40,4 +36,17 @@ main div img{
 
 body{
     background-color: #222622;
+}
+
+.black{
+    background-color: #1D1D1D;
+    padding: 3%;
+}
+
+footer ul li{
+    padding: 15px;
+    list-style: none;
+}
+footer ul li a{
+    color: white;
 }
